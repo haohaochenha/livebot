@@ -1,0 +1,31 @@
+{
+  "name": "douyinliveui",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^1.8.4",
+    "core-js": "^3.8.3",
+    "docx": "^9.4.1",
+    "element-ui": "^2.15.14",
+    "event-source-polyfill": "^1.0.31",
+    "file-saver": "^2.0.5",
+    "mammoth": "^1.9.0",
+    "vue": "^2.6.14",
+    "vue-router": "^3.6.5",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

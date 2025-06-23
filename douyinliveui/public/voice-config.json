@@ -1,0 +1,29 @@
+{
+  "voices": [
+    {
+      "id": "zh_male_1",
+      "name": "中文男声-沉稳",
+      "description": "适合正式场合的沉稳男声"
+    },
+    {
+      "id": "zh_female_1",
+      "name": "中文女声-温柔",
+      "description": "温柔亲切的中文女声"
+    },
+    {
+      "id": "zh_female_2",
+      "name": "中文女声-活泼",
+      "description": "活泼开朗的中文女声"
+    },
+    {
+      "id": "en_male_1",
+      "name": "英文男声-标准",
+      "description": "标准清晰的英文男声"
+    },
+    {
+      "id": "en_female_1",
+      "name": "英文女声-优雅",
+      "description": "优雅自然的英文女声"
+    }
+  ]
+}
